@@ -23,6 +23,5 @@ if option == 3:
 
 if option == 4:
     import os
-
     os.remove("notes.txt")
     print("Notes file deleted successfully!")
